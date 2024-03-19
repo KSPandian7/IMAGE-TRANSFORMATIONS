@@ -14,8 +14,6 @@ Import the required packages.
 
 ### Step2:
 Load the image file in the program.
-
-
 <br>
 
 ### Step3:
@@ -24,14 +22,10 @@ Use the techniques for Translation, Scaling, Shearing, Reflection, Rotation and 
 
 ### Step4:
 Display the modified image output.
-
-
 <br>
 
 ### Step5:
 End the program.
-
-
 <br>
 
 ## Program:
